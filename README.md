@@ -1,6 +1,6 @@
 ## Hi! I'm Cielo <3
 
-I´m a fifth-semester Computer Science Student at Tecnológico de Monterrey. 
+I´m a seventh-semester Computer Science Student at Tecnológico de Monterrey with a Cybersecurity concentration. 
 <!--
 **CieloVega/CieloVega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
